@@ -36,7 +36,7 @@ portfolio_description: A collection of my recent activity, including research pr
 
 # By declaring these variables, you can include a CTA section.
 cta: Contact Me # the heading for your CTA section
-cta_description: Got a nagging question or want to chat? Please get in touch, I'd love to chat! # a description to be desplayed below the heading and above the content
+cta_description: Got a nagging question or want to discuss something? Please get in touch, I'd love to chat! # a description to be desplayed below the heading and above the content
 cta_button: samuel.franklin@port.ac.uk # a link to an external website or to media
 cta_button_label: Email Me # the label on the button
 
