@@ -11,5 +11,6 @@ research:
       - item: example.html
         image: /images/LA1.jpg
   - category: Current Reading
+    items:
       - item: example.html
         image: /images/LA1.jpg
