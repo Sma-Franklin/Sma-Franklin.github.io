@@ -29,20 +29,22 @@ about_button_label: other page (TK) # the label on the button
 
 # By declaring these variables, you can include a portfolio showcasing your work and organize your portfolio's items into a custom layout, all without adding any CSS. In addition, you must 1) create an HTML file in the_includes folder for each project with the text you'd like to display, and 2) create a YAML file in the _data folder describing the order in which each project should be shown and categorized. See `/includes/example.html` and `/_data/work.yml` for examples.
 
-portfolio: research # the heading for your portfolio and title of your YAML file
-portfolio_description: A collection of my recent blog posts on research I'm interested in. # a description to be desplayed below the heading and above the content
+portfolio: What I'm up to # the heading for your portfolio and title of your YAML file
+portfolio_description: A collection of my recent activity, including;":" research projects, blog posts, and articles/ papers of interests. # a description to be desplayed below the heading and above the content
 
 # optional CTA section --------------------------------------------------
 
 # By declaring these variables, you can include a CTA section.
-cta: connect # the heading for your CTA section
-cta_description: questions, comments, or concerns? please don't hesitate to reach out. # a description to be desplayed below the heading and above the content
+cta: Contact Me # the heading for your CTA section
+cta_description: Got a nagging question or want to chat? Please get in touch, I'd love to chat! # a description to be desplayed below the heading and above the content
 cta_button: samuel.franklin@port.ac.uk # a link to an external website or to media
-cta_button_label: email me # the label on the button
+cta_button_label: Email Me # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
 
-### Hi I'm **Sam** 👋
-  
-I'm a PhD Student at the [Institute of Cosmology and Gravitation](https://researchportal.port.ac.uk/en/organisations/institute-of-cosmology-gravitation) working with [Professor Enrique Gaztanaga](https://www.port.ac.uk/about-us/structure-and-governance/our-people/our-staff/enrique-gaztanaga) on "Probing gravitational horizons with astronomical observations".
+### My research 🔭
+I'm a PhD Student at the [Institute of Cosmology and Gravitation](https://researchportal.port.ac.uk/en/organisations/institute-of-cosmology-gravitation) working with [Professor Enrique Gaztanaga](https://www.port.ac.uk/about-us/structure-and-governance/our-people/our-staff/enrique-gaztanaga) on probing gravitational horizons with astronomical observations.
+
+### My Website 📡
+

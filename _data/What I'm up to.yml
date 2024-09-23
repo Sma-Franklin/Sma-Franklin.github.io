@@ -1,0 +1,15 @@
+# this file organizes the items in your portfolio, which are placed in the _includes folder
+# in the root directory
+
+research:
+  - category: Research Projects
+    items:
+      - item: example.html
+        image: /images/NYC1.jpg # optionally, include the file path for an image for each item
+  - category: Blog Posts
+    items:
+      - item: example.html
+        image: /images/LA1.jpg
+  - category: Current Reading
+      - item: example.html
+        image: /images/LA1.jpg
